@@ -1,5 +1,4 @@
 
-
   h1 {
     color: rebeccapurple;
     text-align: center;
@@ -10,6 +9,6 @@
   background-color: rgb(206, 101, 101);
   font-size: 32px;
   border: 5px solid gray;
-  margin: left;
+  margin: auto;
  
  }
